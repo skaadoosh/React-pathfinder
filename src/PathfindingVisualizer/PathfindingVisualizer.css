@@ -1,0 +1,61 @@
+.title {
+  color: white;
+  background: rgb(10, 161, 221);
+  background: linear-gradient(90deg, rgba(10, 161, 221, 1) 12%, rgba(33, 85, 205, 1) 84%);
+  margin-top: 0;
+  padding: 0.7em;
+  font-weight: 700;
+  text-align: start;
+  box-shadow: 1px 5px 19px -4px rgba(0, 0, 0, 0.402);
+}
+
+.container {
+  margin: 2em 0 0 0;
+}
+
+.grid {
+  margin: auto;
+  margin-top: 2em;
+  width: fit-content;
+  border: 3px solid rgba(17, 104, 217, 0.75);
+  border-radius: 10px;
+}
+
+.btn {
+  padding: 20px;
+  margin: 10px 10px;
+  border-radius: 30px;
+  border: 0;
+  transition: all 100ms ease-in;
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.vis {
+  background-color: rgba(0, 190, 218, 0.65);
+}
+
+.vis:hover {
+  background-color: rgba(0, 189, 218);
+  cursor: pointer;
+}
+
+.reset {
+  color: white;
+  background-color: #e85a5ac0;
+}
+
+.reset:hover {
+  background-color: #f45050;
+  cursor: pointer;
+}
+
+.rand {
+  background-color: rgba(0, 0, 0, 0.628);
+}
+
+.rand:hover {
+  background-color: rgba(0, 0, 0, 0.82);
+  cursor: pointer;
+}
