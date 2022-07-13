@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-pathfinder/static/css/main.d2159a22.chunk.css",
+    "main.js": "/React-pathfinder/static/js/main.a42ec132.chunk.js",
+    "main.js.map": "/React-pathfinder/static/js/main.a42ec132.chunk.js.map",
+    "runtime-main.js": "/React-pathfinder/static/js/runtime-main.a0f6a3d7.js",
+    "runtime-main.js.map": "/React-pathfinder/static/js/runtime-main.a0f6a3d7.js.map",
+    "static/js/2.9af78dfd.chunk.js": "/React-pathfinder/static/js/2.9af78dfd.chunk.js",
+    "static/js/2.9af78dfd.chunk.js.map": "/React-pathfinder/static/js/2.9af78dfd.chunk.js.map",
+    "index.html": "/React-pathfinder/index.html",
+    "precache-manifest.8f5942350969611628ccb4664ad747f3.js": "/React-pathfinder/precache-manifest.8f5942350969611628ccb4664ad747f3.js",
+    "service-worker.js": "/React-pathfinder/service-worker.js",
+    "static/css/main.d2159a22.chunk.css.map": "/React-pathfinder/static/css/main.d2159a22.chunk.css.map"
+  }
+}
